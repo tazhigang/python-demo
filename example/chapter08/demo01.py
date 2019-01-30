@@ -1,15 +1,7 @@
 # -*- coding: UTF-8 -*-
-a=10
-b=20
-c=a+b
-print "a+b=",c
-c=a-b
-print "a-b=",c
-c=a*b
-print "a*b=",c
-c=10.0/b
-print "a/b=",c
-c=a**b
-print "a**b=",c
-c=a//b
-print "a//b=",c
+# 条件判断语句
+# 例1：if 基本用法
+if 1>2:
+    print "hello"
+else:
+    print "world"
