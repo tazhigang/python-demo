@@ -5,6 +5,5 @@ from run.dell import deli
 a =10
 b =20
 add(a,b)
-
 deli(a,b)
 
